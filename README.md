@@ -2,7 +2,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-carl@pixelempyrean.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:carl@pixelempyrean.com)](mailto:carl@pixelempyrean.com)
 <img src="https://komarev.com/ghpvc/?username=misterempyrean" alt="misterempyrean" />
 
-### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">,
 
 I am a passionate web developer with 3+ years industry experience. I use React.js and latest tools to build PWA projects from inception to deployment/ maintenance, including CI/CD, QA, 100% test coverage, responsive, under Scrum & Lean.
 
@@ -10,9 +10,7 @@ With a keen eye for UI, I can build hi-fidelity prototypes for different form fa
 
 I also love people, love interactions, with years of building relations and interpersonal skills. I like to drive innovation, lead by example. I am also very open to all suggestions, take a proactive lead on things.
 
-I strongly feel you're going to be seeing a lot more of me and from me in times to come ❤️
-
-Let's connect! :)
+Let's connect! 👍
 
 ![github stats](https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=misterempyrean)
 
