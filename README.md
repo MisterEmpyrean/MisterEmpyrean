@@ -1,4 +1,24 @@
-### Front End Technologies
+[![Linkedin Badge](https://img.shields.io/badge/-carlbowen-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/carl-bowen/)](https://www.linkedin.com/in/carl-bowen/)
+[![Gmail Badge](https://img.shields.io/badge/-carl@pixelempyrean.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:carl@pixelempyrean.com)](mailto:carl@pixelempyrean.com)
+<img src="https://komarev.com/ghpvc/?username=misterempyrean" alt="misterempyrean" />
+
+### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+
+I am a passionate web developer with 3+ years industry experience. I use React.js and latest tools to build PWA projects from inception to deployment/ maintenance, including CI/CD, QA, 100% test coverage, responsive, under Scrum & Lean.
+
+With a keen eye for UI, I can build hi-fidelity prototypes for different form factors, built style guides. I also work with Figma, Zeplin, and Storybook to turn UI designs into React components.
+
+I also love people, love interactions, with years of building relations and interpersonal skills. I like to drive innovation, lead by example. I am also very open to all suggestions, take a proactive lead on things.
+
+I strongly feel you're going to be seeing a lot more of me and from me in times to come ❤️
+
+Let's connect! :)
+
+![github stats](https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=misterempyrean)
+
+![top-langs](https://github-readme-stats.vercel.app/api/top-langs?username=misterempyrean)
+
+# ⚡ Front End Technologies
 <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-plain.svg" width="40px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-plain.svg" width="40px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://devicons.github.io/devicon/devicon.git/icons/sass/sass-original.svg" width="40px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -15,7 +35,11 @@
 <img src="https://4.bp.blogspot.com/-LiJZ5I8E7K8/XIe_GeI5glI/AAAAAAAAIuw/4Awu8j8r0P8TKBXzyxyslHEfplOlK9-6QCK4BGAYYCw/s1600/icon%2Bfigma%2Bvector.png" width="40px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://miro.medium.com/max/3150/2*Quf1FX2VLly-mpdP9_M4Tw.png" width="60px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-### Back End Technologies
+&nbsp;
+
+&nbsp; 
+
+# ⚡ Back End Technologies
 <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-plain.svg" width="40px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-plain.svg" width="40px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://devicons.github.io/devicon/devicon.git/icons/express/express-original.svg" width="40px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -26,7 +50,13 @@
 <img src="https://www.vitoshacademy.com/wp-content/uploads/2015/05/sqlalchemy-logo1.png" width="100px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://devicons.github.io/devicon/devicon.git/icons/amazonwebservices/amazonwebservices-original.svg" width="40px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-### Extra Technologies
+
+&nbsp;
+
+&nbsp; 
+
+
+# ⚡ Extra Technologies
 <img src="https://miro.medium.com/max/1400/1*I1bJuD1D5G2FvWP5IVyyFQ.png" width="120px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://scholarblogs.emory.edu/lits/files/2019/03/atomicdesign.png" width="80px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://devicons.github.io/devicon/devicon.git/icons/npm/npm-original-wordmark.svg" width="60px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -41,20 +71,3 @@
 <img src="https://cdn.worldvectorlogo.com/logos/pwa-logo.svg" width="80px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Octicons-logo-github.svg/1024px-Octicons-logo-github.svg.png" width="80px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://www.webpagetest.org/tips_data/google_developers_logo.png" width="100px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-
-### Hi there 👋
-
-I am a passionate web developer with 3+ years industry experience. I use React.js and latest tools to build PWA projects from inception to deployment/ maintenance, including CI/CD, QA, 100% test coverage, responsive, under Scrum & Lean.
-
-With a keen eye for UI, I can build hi-fidelity prototypes for different form factors, built style guides. I also work with Figma, Zeplin, and Storybook to turn UI designs into React components.
-
-I also love people, love interactions, with years of building relations and interpersonal skills. I like to drive innovation, lead by example. I am also very open to all suggestions, take a proactive lead on things.
-
-I strongly feel you're going to be seeing a lot more of me and from me in times to come ❤️
-
-Let's connect! :)
-
-![github stats](https://github-readme-stats.vercel.app/api?username=misterempyrean)
-
-![top-langs](https://github-readme-stats.vercel.app/api/top-langs?username=misterempyrean)
