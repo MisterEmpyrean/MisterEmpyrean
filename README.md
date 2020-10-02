@@ -4,7 +4,7 @@
 
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">,
 
-I am a passionate web developer nearly 5 years industry experience. I use React.js and latest tools to build PWA projects from inception to deployment/ maintenance, including CI/CD, QA, 100% test coverage, responsive, under Scrum & Lean.
+I am a passionate web developer with nearly 5 years industry experience. I use React.js and latest tools to build PWA projects from inception to deployment/ maintenance, including CI/CD, QA, 100% test coverage, responsive, under Scrum & Lean.
 
 With a keen eye for UI, I can build hi-fidelity prototypes for different form factors, built style guides. I also work with Figma, Zeplin, and Storybook to turn UI designs into React components.
 
