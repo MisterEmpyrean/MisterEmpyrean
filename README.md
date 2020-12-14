@@ -12,6 +12,11 @@ I also love people, love interactions, with years of building relations and inte
 
 Let's connect! 👍
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=misterempyrean&theme=onedark&margin-w=15&margin-h=15" alt="misterempyrean" /></a> </p>
+<p><img src="https://github-readme-stats.vercel.app/api?username=misterempyrean&count_private=true&show_icons=true&include_all_commits=true&theme=onedark&hide=issues,prs" alt="misterempyrean" /></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=misterempyrean&label=Profile%20views&color=0e75b6&style=flat" alt="misterempyrean" /> </p>
+
+
 ![github stats](https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=misterempyrean)
 
 ![top-langs](https://github-readme-stats.vercel.app/api/top-langs?username=misterempyrean)
